@@ -13,7 +13,7 @@ Also, the solution I tried from JSFiddle (provided from the comments) also showe
 
 Line 1234 in the first line is 5678, and line 2 in the second line is 5678
 
-```
+```javascript
 $(function() {
   // Target all classed with ".lined"
   $(".lined").linedtextarea(
