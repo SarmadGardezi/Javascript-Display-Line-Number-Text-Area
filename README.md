@@ -1,4 +1,4 @@
-# Javascript-Display-Line-Number-Text-Area
+# Javascript Display Line Number Text Area
 display line number in text area using Javascript code
 
 I want to display the line number in the text area, like in jQuery:
